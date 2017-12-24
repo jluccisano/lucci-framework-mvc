@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4/trunk/src/main/flex/org/lucciframework/luccimvc/error
+END
+LucciFrameworkMVCError.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4/trunk/src/main/flex/org/lucciframework/luccimvc/error/LucciFrameworkMVCError.as
+END
+LucciMessageCodes.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4/trunk/src/main/flex/org/lucciframework/luccimvc/error/LucciMessageCodes.as
+END

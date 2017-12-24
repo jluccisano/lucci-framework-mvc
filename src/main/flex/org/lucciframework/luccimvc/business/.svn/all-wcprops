@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/src/main/flex/org/lucciframework/luccimvc/business
+END
+Services.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/4/trunk/src/main/flex/org/lucciframework/luccimvc/business/Services.as
+END
+RegisterService.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4/trunk/src/main/flex/org/lucciframework/luccimvc/business/RegisterService.as
+END
+IServices.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/4/trunk/src/main/flex/org/lucciframework/luccimvc/business/IServices.as
+END

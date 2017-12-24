@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/4/trunk/src/main/flex/org/lucciframework/luccimvc/model/presenationModel
+END
+RegisterPresentationModel.as
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/4/trunk/src/main/flex/org/lucciframework/luccimvc/model/presenationModel/RegisterPresentationModel.as
+END
+IPresentationModel.as
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/4/trunk/src/main/flex/org/lucciframework/luccimvc/model/presenationModel/IPresentationModel.as
+END
+PresentationModelReference.as
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/4/trunk/src/main/flex/org/lucciframework/luccimvc/model/presenationModel/PresentationModelReference.as
+END
+PresentationModel.as
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/4/trunk/src/main/flex/org/lucciframework/luccimvc/model/presenationModel/PresentationModel.as
+END

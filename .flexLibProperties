@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="false" version="3">
+  <includeClasses>
+    <classEntry path="org.lucciframework.luccimvc.business.IServices"/>
+    <classEntry path="org.lucciframework.luccimvc.business.RegisterService"/>
+    <classEntry path="org.lucciframework.luccimvc.business.Services"/>
+    <classEntry path="org.lucciframework.luccimvc.controller.Controller"/>
+    <classEntry path="org.lucciframework.luccimvc.controller.IController"/>
+    <classEntry path="org.lucciframework.luccimvc.controller.command.Command"/>
+    <classEntry path="org.lucciframework.luccimvc.controller.command.ICommand"/>
+    <classEntry path="org.lucciframework.luccimvc.controller.command.RegisterCommand"/>
+    <classEntry path="org.lucciframework.luccimvc.controller.command.SequenceCommand"/>
+    <classEntry path="org.lucciframework.luccimvc.controller.event.LucciEvent"/>
+    <classEntry path="org.lucciframework.luccimvc.controller.event.LucciEventDispatcher"/>
+    <classEntry path="org.lucciframework.luccimvc.core.Core"/>
+    <classEntry path="org.lucciframework.luccimvc.core.ICore"/>
+    <classEntry path="org.lucciframework.luccimvc.error.LucciFrameworkMVCError"/>
+    <classEntry path="org.lucciframework.luccimvc.error.LucciMessageCodes"/>
+    <classEntry path="org.lucciframework.luccimvc.facade.Facade"/>
+    <classEntry path="org.lucciframework.luccimvc.facade.IFacade"/>
+    <classEntry path="org.lucciframework.luccimvc.logging.LucciMVCLogging"/>
+    <classEntry path="org.lucciframework.luccimvc.model.IModel"/>
+    <classEntry path="org.lucciframework.luccimvc.model.Model"/>
+    <classEntry path="org.lucciframework.luccimvc.model.presenationModel.IPresentationModel"/>
+    <classEntry path="org.lucciframework.luccimvc.model.presenationModel.PresentationModel"/>
+    <classEntry path="org.lucciframework.luccimvc.model.presenationModel.PresentationModelReference"/>
+    <classEntry path="org.lucciframework.luccimvc.model.presenationModel.RegisterPresentationModel"/>
+    <classEntry path="org.lucciframework.luccimvc.view.IView"/>
+    <classEntry path="org.lucciframework.luccimvc.view.View"/>
+    <classEntry path="org.lucciframework.luccimvc.view.mediator.IMediator"/>
+    <classEntry path="org.lucciframework.luccimvc.view.mediator.Mediator"/>
+    <classEntry path="org.lucciframework.luccimvc.view.mediator.MediatorReference"/>
+    <classEntry path="org.lucciframework.luccimvc.view.mediator.RegisterMediator"/>
+    <classEntry path="org.lucciframework.luccimvc.view.mediator.RegisterViewComponent"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
